@@ -464,3 +464,23 @@
     padding-right: 0;
     border-right: none;
 }
+.btn-primary {
+    color: #fff;
+    background-color: #fd0d0d !important;
+    border-color: #fd0d0d !important;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff !important ;
+    background-color: #fe0000 !important;
+}
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color:  #fe0000 !important;
+}
+
+.btn-blue {
+    color: #fff;
+    background-color: #0B2154;
+    border-color: #0B2154;
+    border-radius: 6px;
+}
